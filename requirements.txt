@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+japanize_matplotlib
+numpy
+opencv-python
+opencv-contrib-python
+mss
+pyautogui
